@@ -1,0 +1,5 @@
+channel,reached,signed_up,applied,completed,signup_%,apply_of_signup_%,complete_of_apply_%,activation_%,spend_inr,cost_per_activated_inr,effort_cost_inr,total_cost_per_activated_inr
+Club/Referral,90,48,30,19,53.3,62.5,63.3,21.1,0.0,0.0,900.0,47.0
+Instagram,180,34,17,7,18.9,50.0,41.2,3.9,300.0,43.0,1800.0,300.0
+LinkedIn,120,23,17,10,19.2,73.9,58.8,8.3,200.0,20.0,1200.0,140.0
+WhatsApp,220,77,53,30,35.0,68.8,56.6,13.6,0.0,0.0,2200.0,73.0

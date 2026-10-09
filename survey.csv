@@ -1,0 +1,121 @@
+respondent,year,branch_group,internship_confidence_1to5,did_internship_before,pain_point,would_try_free_sprint_1to5,preferred_channel
+1,2nd,CSE/IT/ECE,4,0,Resume gets ignored,3,Club/Friends
+2,3rd,CSE/IT/ECE,1,1,Resume gets ignored,1,WhatsApp
+3,3rd,Core Engg,2,0,No real project experience,2,WhatsApp
+4,2nd,Core Engg,2,0,No mentor/guidance,3,WhatsApp
+5,2nd,CSE/IT/ECE,5,0,Resume gets ignored,4,WhatsApp
+6,4th,Core Engg,2,1,No mentor/guidance,3,WhatsApp
+7,2nd,Core Engg,4,0,No real project experience,4,WhatsApp
+8,2nd,CSE/IT/ECE,4,0,Don't know where to apply,3,WhatsApp
+9,4th,CSE/IT/ECE,4,1,Don't know where to apply,1,WhatsApp
+10,3rd,Core Engg,4,0,Resume gets ignored,4,Instagram
+11,3rd,Other,5,0,Resume gets ignored,1,LinkedIn
+12,3rd,CSE/IT/ECE,1,0,Don't know where to apply,2,Instagram
+13,4th,CSE/IT/ECE,4,0,Don't know where to apply,5,WhatsApp
+14,3rd,Core Engg,1,1,Don't know where to apply,5,WhatsApp
+15,2nd,Other,4,0,Don't know where to apply,5,WhatsApp
+16,4th,Other,3,1,No mentor/guidance,2,WhatsApp
+17,4th,Biotech/Chem,5,0,Don't know where to apply,4,Instagram
+18,3rd,CSE/IT/ECE,5,0,Don't know where to apply,1,Club/Friends
+19,4th,Biotech/Chem,1,0,No real project experience,4,Club/Friends
+20,3rd,Biotech/Chem,5,0,No real project experience,2,WhatsApp
+21,4th,CSE/IT/ECE,1,0,No mentor/guidance,1,WhatsApp
+22,2nd,Core Engg,2,0,Don't know where to apply,5,WhatsApp
+23,3rd,CSE/IT/ECE,3,0,No mentor/guidance,3,Instagram
+24,3rd,Biotech/Chem,5,0,Resume gets ignored,1,Instagram
+25,3rd,Biotech/Chem,2,0,No mentor/guidance,4,LinkedIn
+26,3rd,Biotech/Chem,5,1,No real project experience,2,WhatsApp
+27,2nd,Biotech/Chem,2,0,No mentor/guidance,4,WhatsApp
+28,4th,CSE/IT/ECE,3,0,Resume gets ignored,5,LinkedIn
+29,4th,Biotech/Chem,5,0,Resume gets ignored,2,LinkedIn
+30,2nd,CSE/IT/ECE,4,0,Resume gets ignored,2,Instagram
+31,3rd,CSE/IT/ECE,4,0,Resume gets ignored,1,Club/Friends
+32,3rd,Core Engg,2,0,Don't know where to apply,5,WhatsApp
+33,2nd,Core Engg,1,0,Resume gets ignored,2,WhatsApp
+34,4th,CSE/IT/ECE,1,0,No real project experience,1,LinkedIn
+35,3rd,Core Engg,2,0,No real project experience,3,LinkedIn
+36,2nd,Core Engg,3,1,Resume gets ignored,5,Club/Friends
+37,4th,CSE/IT/ECE,5,1,Don't know where to apply,1,Club/Friends
+38,2nd,Core Engg,1,1,No mentor/guidance,2,LinkedIn
+39,4th,Core Engg,1,0,No real project experience,5,Club/Friends
+40,2nd,Biotech/Chem,4,1,No mentor/guidance,1,LinkedIn
+41,2nd,CSE/IT/ECE,2,0,No mentor/guidance,1,WhatsApp
+42,2nd,Biotech/Chem,5,0,No mentor/guidance,4,LinkedIn
+43,3rd,Core Engg,3,1,No mentor/guidance,1,WhatsApp
+44,3rd,Core Engg,5,1,No real project experience,5,Instagram
+45,4th,Biotech/Chem,3,1,No real project experience,5,WhatsApp
+46,4th,Core Engg,3,1,No real project experience,5,WhatsApp
+47,3rd,CSE/IT/ECE,4,1,Don't know where to apply,4,Club/Friends
+48,2nd,Other,1,0,No real project experience,4,Club/Friends
+49,2nd,CSE/IT/ECE,2,0,No real project experience,1,Club/Friends
+50,4th,CSE/IT/ECE,5,0,No real project experience,5,WhatsApp
+51,3rd,Core Engg,1,0,No mentor/guidance,5,Instagram
+52,4th,CSE/IT/ECE,5,1,Don't know where to apply,5,WhatsApp
+53,2nd,CSE/IT/ECE,4,0,Resume gets ignored,4,LinkedIn
+54,2nd,Biotech/Chem,5,0,Don't know where to apply,3,Club/Friends
+55,4th,Biotech/Chem,2,1,Resume gets ignored,1,Club/Friends
+56,3rd,Core Engg,3,0,No mentor/guidance,1,Club/Friends
+57,3rd,Other,1,1,Don't know where to apply,4,WhatsApp
+58,3rd,Biotech/Chem,4,0,Don't know where to apply,5,Club/Friends
+59,2nd,CSE/IT/ECE,1,0,No real project experience,4,WhatsApp
+60,2nd,Core Engg,2,1,No real project experience,2,Instagram
+61,2nd,CSE/IT/ECE,2,1,No real project experience,4,WhatsApp
+62,4th,Biotech/Chem,1,0,Don't know where to apply,2,Instagram
+63,3rd,Core Engg,3,0,Don't know where to apply,1,Instagram
+64,2nd,CSE/IT/ECE,2,1,Resume gets ignored,3,WhatsApp
+65,4th,Other,1,0,Don't know where to apply,5,WhatsApp
+66,2nd,Biotech/Chem,4,0,Don't know where to apply,1,Club/Friends
+67,2nd,Biotech/Chem,1,0,No mentor/guidance,2,Instagram
+68,3rd,Core Engg,2,0,No real project experience,1,Instagram
+69,4th,Biotech/Chem,2,1,No real project experience,2,WhatsApp
+70,2nd,Core Engg,4,0,No real project experience,2,WhatsApp
+71,4th,Core Engg,4,1,No mentor/guidance,1,Club/Friends
+72,2nd,CSE/IT/ECE,3,0,Resume gets ignored,3,Club/Friends
+73,2nd,Core Engg,1,0,Resume gets ignored,5,Instagram
+74,2nd,Biotech/Chem,3,0,No mentor/guidance,4,Club/Friends
+75,3rd,Biotech/Chem,4,0,No real project experience,5,Club/Friends
+76,4th,Biotech/Chem,5,0,No mentor/guidance,5,WhatsApp
+77,3rd,Core Engg,5,0,No real project experience,5,WhatsApp
+78,4th,Other,1,0,Don't know where to apply,5,LinkedIn
+79,2nd,CSE/IT/ECE,2,0,Resume gets ignored,1,WhatsApp
+80,3rd,Other,3,0,Resume gets ignored,5,Club/Friends
+81,3rd,Core Engg,2,1,No real project experience,1,Instagram
+82,4th,CSE/IT/ECE,1,0,Don't know where to apply,4,Club/Friends
+83,4th,Core Engg,2,0,No real project experience,5,Club/Friends
+84,3rd,Core Engg,5,1,No real project experience,4,WhatsApp
+85,3rd,Core Engg,4,1,No mentor/guidance,4,Club/Friends
+86,3rd,Other,3,0,No mentor/guidance,3,WhatsApp
+87,4th,CSE/IT/ECE,3,0,Resume gets ignored,2,WhatsApp
+88,2nd,Core Engg,2,1,Resume gets ignored,1,WhatsApp
+89,2nd,Core Engg,3,1,No mentor/guidance,4,Instagram
+90,3rd,Core Engg,1,1,Don't know where to apply,1,LinkedIn
+91,2nd,Core Engg,1,0,No mentor/guidance,3,WhatsApp
+92,4th,CSE/IT/ECE,3,0,Don't know where to apply,4,Club/Friends
+93,4th,Core Engg,3,1,No real project experience,1,WhatsApp
+94,3rd,Other,2,1,Don't know where to apply,2,Club/Friends
+95,4th,CSE/IT/ECE,3,1,Resume gets ignored,5,WhatsApp
+96,4th,CSE/IT/ECE,1,1,Resume gets ignored,4,WhatsApp
+97,4th,CSE/IT/ECE,5,0,Resume gets ignored,4,WhatsApp
+98,4th,Core Engg,1,0,No real project experience,3,Instagram
+99,2nd,Other,3,1,Resume gets ignored,5,Instagram
+100,3rd,CSE/IT/ECE,2,1,No mentor/guidance,1,Instagram
+101,2nd,Other,4,0,Resume gets ignored,2,Club/Friends
+102,3rd,Core Engg,3,1,No mentor/guidance,3,LinkedIn
+103,4th,CSE/IT/ECE,1,0,Don't know where to apply,1,LinkedIn
+104,4th,Core Engg,3,0,No mentor/guidance,3,Instagram
+105,4th,CSE/IT/ECE,3,0,No real project experience,3,Club/Friends
+106,2nd,Biotech/Chem,5,0,No mentor/guidance,1,Instagram
+107,3rd,Core Engg,3,1,Don't know where to apply,1,Club/Friends
+108,2nd,CSE/IT/ECE,5,1,No mentor/guidance,2,Club/Friends
+109,4th,CSE/IT/ECE,2,1,Don't know where to apply,5,LinkedIn
+110,2nd,Other,5,0,Resume gets ignored,2,Instagram
+111,2nd,Biotech/Chem,5,0,No mentor/guidance,4,WhatsApp
+112,3rd,Core Engg,4,1,Resume gets ignored,2,Club/Friends
+113,2nd,Core Engg,5,0,Resume gets ignored,2,Club/Friends
+114,4th,Biotech/Chem,3,1,No mentor/guidance,4,Club/Friends
+115,3rd,Other,5,0,No real project experience,5,WhatsApp
+116,2nd,CSE/IT/ECE,3,0,No real project experience,1,Instagram
+117,3rd,CSE/IT/ECE,3,0,Resume gets ignored,1,Club/Friends
+118,2nd,Core Engg,2,1,No mentor/guidance,3,WhatsApp
+119,3rd,Core Engg,3,1,Resume gets ignored,3,Club/Friends
+120,2nd,CSE/IT/ECE,2,0,Don't know where to apply,4,Instagram
